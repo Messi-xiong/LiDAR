@@ -1,0 +1,48 @@
+*PADS-ECO-V9.5-METRIC*
+
+*REMARK* -- 转子PCB.pcb -- Wed May 26 21:14:51 2021
+
+*END*
+*PADS-ECO-V9.5-METRIC*
+
+*REMARK* -- 转子PCB.pcb -- Wed May 26 21:16:43 2021
+
+
+*PART*
+X1 SCREW
+
+*SET_ATTRIBUTE* PARTTYPE SCREW
+"Value" 
+*END*
+*PADS-ECO-V9.5-METRIC*
+
+*REMARK* -- 转子PCB.pcb -- Wed May 26 21:20:03 2021
+
+
+*PART*
+X2 SCREW
+X3 SCREW
+*END*
+*PADS-ECO-V9.5-METRIC*
+
+*REMARK* -- 转子PCB.pcb -- Wed May 26 21:51:24 2021
+
+
+*DELPIN*
+R1.1    $$$26373
+D1.1    $$$26373
+D1.2    GND
+
+*DELPART*
+D1 LED.
+*END*
+*PADS-ECO-V9.5-METRIC*
+
+*REMARK* -- 转子PCB.pcb -- Wed May 26 21:57:02 2021
+
+*END*
+*PADS-ECO-V9.5-METRIC*
+
+*REMARK* -- 转子PCB.pcb -- Fri May 28 21:50:13 2021
+
+*END*
